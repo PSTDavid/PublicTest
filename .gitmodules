@@ -1,5 +1,4 @@
 [submodule "PrivateTest"]
 	path = PrivateTest
 	url = https://github.com/PSTDavid/PrivateTest.git
-[submodule "https://github.com/PSTDavid/PrivateTest.git"]
 	branch = main
