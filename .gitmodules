@@ -1,0 +1,6 @@
+[submodule "PublicTest"]
+	path = PublicTest
+	url = https://github.com/PSTDavid/PublicTest.git
+[submodule "PrivateTest"]
+	path = PrivateTest
+	url = https://github.com/PSTDavid/PrivateTest.git
